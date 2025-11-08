@@ -39,5 +39,6 @@ GNU License    <ul>
     <div class="license"> GNU License</div>
     <div class="thanks">Flick fast. Be the best lizard!</div>
   </div>
+  Dedicated to my lizard
 </body>
 </html>
