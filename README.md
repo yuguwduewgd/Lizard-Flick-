@@ -29,17 +29,8 @@ Lizard Flick is a vibrant, reflex-based game where speed and precision determine
 ## Contributing
 
 Pull requests and feedback are welcome—help us make this lizard even slicker!
-
-## License
     
-      <li>Fun flicking game!</li>
-      <li>Drag/flick your lizard.</li>
-      <li>Collect bugs & powerups.</li>
-      <li>Simple controls, quick play.</li>
-    </ul>
-    <div class="license"> GNU License</div>
-    <div class="thanks">Flick fast. Be the best lizard!</div>
-  </div>
+      
   Dedicated to my lizard
 </body>
 </html>
